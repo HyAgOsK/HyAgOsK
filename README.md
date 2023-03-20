@@ -1,7 +1,7 @@
 ### Meu nome é Hyago Vieira
 
 - 🔭 Hoje trabalho com desenvolvimento e projeto Free Lancer, com desenvolvimento web, segurança das aplicações, datascience e monitoria no INATEL.
-- 🌱 Estou estudando PHP e desenvolvimento web e mobile, IOT e Ethical Hacking Pentest com Kali Linux
+- 🌱 Estou estudando PHP e desenvolvimento web e mobile, IOT e Ethical Hacking Pentest
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hyago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,9 +15,7 @@
   <img align="center" alt="Hyago-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
   <img align="center" alt="Hyago-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
   <img align="center" alt="Hyago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
-  
-  
-  
+  <img align="center" alt="Hyago-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"> 
   
 </div>
 
