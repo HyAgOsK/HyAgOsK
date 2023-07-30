@@ -1,7 +1,7 @@
 ### Meu nome é Hyago Vieira
 
-- 🔭 Hoje trabalho com desenvolvimento e projeto Free Lancer, com desenvolvimento web, segurança das aplicações, datascience e monitoria no INATEL.
-- 🌱 Estou estudando PHP e desenvolvimento web e mobile, IOT e Ethical Hacking Pentest
+- 🔭 Hoje trabalho com desenvolvimento e projeto Free Lancer, com desenvolvimento web, projetos com foco em DevOps.
+- 🌱 Estou estudando PHP e desenvolvimento web e mobile, IOT e Ethical Hacking Pentest e principalmente DevOps
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hyago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
