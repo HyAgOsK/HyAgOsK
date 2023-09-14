@@ -1,7 +1,7 @@
 ### Meu nome é Hyago Vieira
 
-- 🔭 Hoje trabalho com desenvolvimento e projeto Free Lancer, com desenvolvimento web, projetos com foco em DevOps.
-- 🌱 Estou estudando PHP e desenvolvimento web e mobile, IOT e Ethical Hacking Pentest e principalmente DevOps
+- 🔭 Hoje estou mestrando em telecomunicações atuando como pesquisador no WOCA, e trabalhando com freelancer com desenvolvimento e projeto.
+- 🌱 Estou estudando IOT com aplicações Machine Learning voltados a saúde digital, também PHP, desenvolvimento web e mobile, Ethical Hacking, Pentest e DevOps.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hyago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
