@@ -2,6 +2,7 @@
 
 - 🔭 Hoje estou mestrando em telecomunicações atuando como pesquisador no WOCA, e trabalhando com freelancer com desenvolvimento e projeto.
 - 🌱 Estou estudando IOT com aplicações Machine Learning voltados a saúde digital, também PHP, desenvolvimento web e mobile, Ethical Hacking, Pentest e DevOps.
+- 🤓 Em paralelo estou trabalhando com tecnologias como JavaScript, ReactJS, Node JS, HTML, CSS, PHP, Laravel, Flutter, C++ dados e utilização de inteligência artificial e segurança cibernética, com Python e Linux e C++. Também trabalho com IoT aplicado a utilização de IA. E atuo no mercado financeiro utilizando linguagem de programação com automação de software.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hyago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
