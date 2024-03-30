@@ -1,8 +1,9 @@
-### Meu nome é Hyago Vieira
+## Sobre Mim: Hyago Vieira
+🔭 Atualmente, estou mergulhado no mundo da pesquisa como mestrando em Telecomunicações, dedicando-me ao IoT Research Group. Meu foco está na aplicação de Inteligência Artificial em dispositivos de borda, explorando o potencial da IoT e outros serviços. Estou envolvido no emocionante projeto da ATECH e também atuo como freelancer em desenvolvimento e projeto.
 
-- 🔭 Hoje estou mestrando em telecomunicações atuando como pesquisador no IoT Reasearch Group, com foco em Inteligência Artificial, para dispositivos de borda, utilizando IoT, entre outros serviços, trabalhando atualmente no projeto da ATECH, e como freelancer com desenvolvimento e projeto.
-- 🌱 Estou estudando IOT com aplicações Machine Learning voltados a saúde digital, também PHP, desenvolvimento web e mobile, Ethical Hacking, Pentest e DevOps.
-- 🤓 Em paralelo estou trabalhando com tecnologias como JavaScript, ReactJS, Node JS, HTML, CSS, PHP, Laravel, Flutter, C++ dados e utilização de inteligência artificial e segurança cibernética, com Python e Linux e C++. Também trabalho com IoT aplicado a utilização de IA. E atuo no mercado financeiro utilizando linguagem de programação com automação de software.
+🌱 Estou constantemente aprimorando meu conhecimento em IoT, com um interesse particular em aplicações de Machine Learning na saúde digital. Além disso, estou dedicando tempo ao estudo de PHP, desenvolvimento web e mobile, Ethical Hacking, Pentest e DevOps.
+
+🤓 Paralelamente aos meus estudos, estou imerso em diversas tecnologias, incluindo JavaScript, ReactJS, Node JS, HTML, CSS, PHP, Laravel, Flutter e C++. Tenho experiência em lidar com dados, inteligência artificial e segurança cibernética, utilizando Python, Linux e C++. Além disso, trabalho com IoT aplicado à IA e também aplico meus conhecimentos no mercado financeiro, utilizando linguagens de programação para automação de software.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Hyago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
