@@ -1,5 +1,5 @@
 ## Sobre Mim: Hyago Vieira
-🔭 Atualmente, estou mergulhado no mundo da pesquisa como mestrando em Telecomunicações, dedicando-me ao IoT Research Group. Meu foco está na aplicação de Inteligência Artificial em dispositivos de borda, explorando o potencial da IoT e outros serviços. Estou envolvido no projeto da ATECH e também atuo como freelancer em desenvolvimento e projeto.
+🔭 Atualmente, estou mergulhado no mundo da pesquisa como mestrando em Telecomunicações, dedicando-me ao IoT Research Group. Meu foco está na aplicação de Inteligência Artificial dentro de Machine Learning, Deep Learning, em dispositivos de borda, ou software aberto, explorando o potencial da IoT e outros serviços. Estou envolvido no projeto da ATECH e também atuo como freelancer em desenvolvimento e projeto.
 
 🌱 Estou constantemente aprimorando meu conhecimento em IoT, com um interesse particular em aplicações de Machine Learning na saúde digital. Além disso, estou dedicando tempo ao estudo de PHP, desenvolvimento web e mobile, Ethical Hacking, Pentest e DevOps.
 
