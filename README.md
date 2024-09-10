@@ -1,9 +1,12 @@
 ## Sobre Mim: Hyago Vieira
-🔭 Atualmente, estou mergulhado no mundo da pesquisa como mestrando em Telecomunicações, dedicando-me ao IoT Research Group. Meu foco está na aplicação de Inteligência Artificial dentro de Machine Learning, Deep Learning, em dispositivos de borda, ou software aberto, explorando o potencial da IoT e outros serviços. Estou envolvido no projeto da ATECH e também atuo como freelancer em desenvolvimento e projeto.
 
-🌱 Estou constantemente aprimorando meu conhecimento em IoT, com um interesse particular em aplicações de Machine Learning na saúde digital. Além disso, estou dedicando tempo ao estudo de PHP, desenvolvimento web e mobile, Ethical Hacking, Pentest e DevOps.
+🔭  Atualmente, sou mestrando em Telecomunicações no Instituto Nacional de Telecomunicações (INATEL) e atuo no grupo de pesquisa em IoT, focando na aplicação de Inteligência Artificial, Machine Learning e Deep Learning em dispositivos de borda (Edge Computing). Também trabalho como freelancer em desenvolvimento de projetos, explorando o uso de IA e IoT em serviços avançados. Atualmente, estou envolvido em um projeto com a ATECH, uma empreiteira da EMBRAER, no desenvolvimento de soluções para rastreamento e monitoramento de embarcações.
 
-🤓 Paralelamente aos meus estudos, estou imerso em diversas tecnologias, incluindo JavaScript, ReactJS, Node JS, HTML, CSS, PHP, Laravel, Flutter e C++. Tenho experiência em lidar com dados, inteligência artificial e segurança cibernética, utilizando Python, Linux e C++. Além disso, trabalho com IoT aplicado à IA e também aplico meus conhecimentos no mercado financeiro, utilizando linguagens de programação para automação de software.
+🌱 Tenho uma sólida experiência em Python, C++, análise de dados e frameworks como PyTorch e TensorFlow, além de conhecimento profundo em Visão Computacional com OpenCV. Estou constantemente aprimorando minhas habilidades em áreas como PHP, desenvolvimento web e mobile, bem como em segurança cibernética (Ethical Hacking e Pentest). Também dedico tempo ao estudo de DevOps, buscando otimizar o ciclo de desenvolvimento de software.
+
+🤓 Minha trajetória acadêmica inclui publicações científicas e trabalhos em Machine Learning aplicados à saúde e ao mercado financeiro, desenvolvendo soluções com JavaScript, ReactJS, Node.js, Flutter e tecnologias como Docker e GitHub. No meu trabalho com Edge Computing, busco melhorar a eficiência e escalabilidade de sistemas com uso de IA em ambientes de baixa potência.
+
+Estou ansioso para colaborar com equipes dinâmicas e inovadoras, contribuindo para o desenvolvimento de soluções avançadas e eficientes em Visão Computacional e IA.
 
 <div style="display: inline_block"><br>
   
