@@ -19,7 +19,8 @@ Estou ansioso para colaborar com equipes dinâmicas e inovadoras, contribuindo p
   <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
   <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"> 
   <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github.svg"> 
+  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original"> 
 </div>
 
 <br>
