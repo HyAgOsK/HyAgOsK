@@ -1,35 +1,96 @@
-## Sobre Mim: Hyago Vieira
+# Hi, I'm Hyago Vieira 👋
 
-🔭 Atualmente, sou mestrando em Telecomunicações no Instituto Nacional de Telecomunicações (INATEL) e atuo no grupo de pesquisa em IoT, focando na aplicação de Inteligência Artificial, Machine Learning e Deep Learning em dispositivos de borda (Edge Computing). Paralelamente, trabalho como freelancer em desenvolvimento de projetos, explorando o uso de IA e IoT em diversos setores. Um dos meus principais projetos é com a ATECH, uma empreiteira da EMBRAER, onde desenvolvo soluções para rastreamento e monitoramento de embarcações. Defendi este artigo para embarcações na Colombia no evento LATINCOM 2024. Hoje em dia estou finalizando meu mestrado, em minha cidade, escrevendo a disertação, e iniciando o doutorado.
+🚀 MSc in Telecommunications at INATEL | Researcher in AI, Edge Computing, IoT, and Computer Vision  
+🔬 Focused on Data Science, Machine Learning, Deep Learning, Edge AI, and real-world intelligent systems  
+📍 Currently finishing my master's dissertation and starting my PhD journey  
 
-🌱 Minha paixão por desenvolvimento e projetos me levou a adquirir uma sólida experiência em Python, C++, análise de dados e frameworks como PyTorch, TensorFlow, Keras, e scikit-learning. Também possuo conhecimento profundo em Visão Computacional com OpenCV e experiência com desenvolvimento full stack web, utilizando tecnologias como JavaScript, ReactJS, MySQL, PHP e Flutter. Busco constantemente aprimorar minhas habilidades em áreas como desenvolvimento web e mobile, DevOps e segurança cibernética (Ethical Hacking e Pentest), além de explorar o potencial da computação em nuvem e IoT, com foco em otimizar sistemas e desenvolver soluções escaláveis.
+---
 
-🤓 Com uma trajetória acadêmica que inclui publicações científicas e trabalhos em Machine Learning aplicados à saúde e ao mercado financeiro, também atuei como monitor no INATEL durante 3 anos, ensinando disciplinas como Física Quântica, Eletrônica Analógica e Processamento Digital de Sinais. Além disso, fiz estágios em hospitais, multinacionais de telecomunicações e projetos de software, acumulando uma experiência diversificada. Meu Trabalho de Conclusão de Curso (TCC) foi o desenvolvimento de um jogo sério para a reabilitação de pessoas com doenças pulmonares crônicas, uma homenagem ao meu avô.
+## About Me
 
-Atualmente, estou focado no desenvolvimento de projetos de P&D, especialmente nas áreas de Data Science, Machine Learning e Engenharia de Dados, sempre com o objetivo de criar soluções inovadoras e eficientes.
+I am a Telecommunications MSc student at the National Institute of Telecommunications (INATEL), working in the IoT research group with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Edge Computing.
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Hyago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="center" alt="Hyago-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"> 
-  <img align="center" alt="Hyago-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> 
-</div>
+I have experience developing intelligent solutions for real-world applications in sectors such as smart cities, healthcare, telecommunications, and maritime monitoring. I also work as a freelance developer and researcher, building AI- and IoT-based projects with practical impact.
 
-<br>
+One of my main projects was developed in partnership with **ATECH (EMBRAER group)**, focused on **tracking and monitoring vessels**, which resulted in a paper presented at **IEEE LATINCOM 2024**.
 
-<div> 
-  <a href = "mailto:hyago.silva@mtel.inatel.br"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hyagovieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+My academic and professional background combines research, software development, embedded AI, computer vision, and data-driven system design.
 
+---
+
+## Research & Interests
+
+- Edge AI and TinyML for low-power devices  
+- Computer Vision for real-time intelligent systems  
+- Machine Learning and Deep Learning applied to healthcare, mobility, and industry  
+- IoT and embedded systems  
+- Data Science and predictive analytics  
+- Smart Cities and maritime surveillance  
+- Full stack development for AI-powered applications  
+- Cloud, DevOps, and scalable intelligent architectures  
+
+---
+
+## Tech Stack
+
+### Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### AI / Data Science / Computer Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Development / Cloud / DevOps
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## Featured Background
+
+- MSc researcher in Telecommunications at **INATEL**  
+- Researcher in **IoT, Edge AI, Computer Vision, and Machine Learning**  
+- Experience with **medical imaging**, **embedded intelligence**, **vehicle monitoring**, **smart city systems**, and **maritime surveillance**  
+- Former academic tutor in subjects such as **Quantum Physics**, **Analog Electronics**, and **Digital Signal Processing**  
+- Author and co-author of scientific publications in conferences and journals such as **IEEE LATINCOM**, **SBrT**, and **ICICyTA**  
+
+---
+
+## Current Focus
+
+🌱 I’m currently working on:
+
+- Finishing my master's dissertation  
+- Starting my PhD research  
+- Developing R&D projects in AI, Data Science, and Edge Computing  
+- Exploring scalable AI systems for embedded and real-time applications  
+
+---
+
+## Publications & Research
+
+Some of my work involves:
+
+- Maritime surveillance on Raspberry Pi using Edge AI  
+- Federated Learning for pneumonia diagnosis in remote areas  
+- PCB defect detection with EdgeML and Computer Vision  
+- Real-time vehicle tracking and traffic control in smart cities  
+- Driver monitoring and multi-risk detection systems  
+
+---
+
+## Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-hyago.silva%40mtel.inatel.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyago.silva@mtel.inatel.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyago%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyagovieira/)
