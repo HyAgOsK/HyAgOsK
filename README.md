@@ -1,96 +1,223 @@
-# Hi, I'm Hyago Vieira 👋
+<h1 align="center">Hi, I'm Hyago Vieira 👋</h1>
 
-🚀 MSc in Telecommunications at INATEL | Researcher in AI, Edge Computing, IoT, and Computer Vision  
-🔬 Focused on Data Science, Machine Learning, Deep Learning, Edge AI, and real-world intelligent systems  
-📍 Currently finishing my master's dissertation and starting my PhD journey  
+<h3 align="center">
+Data Scientist | AI Researcher | Computer Vision | Edge AI | IoT
+</h3>
+
+<p align="center">
+  Currently working at <strong>Harpia</strong> • MSc in Telecommunications at <strong>INATEL</strong> • Building intelligent systems for real-world applications
+</p>
+
+<p align="center">
+  <a href="mailto:hyago.silva@mtel.inatel.br">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hyagovieira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hyago%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/HyAgOsK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-HyAgOsK-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-I am a Telecommunications MSc student at the National Institute of Telecommunications (INATEL), working in the IoT research group with a strong focus on Artificial Intelligence, Machine Learning, Deep Learning, and Edge Computing.
+I am currently working at **Harpia** while pursuing my **MSc in Telecommunications at the National Institute of Telecommunications (INATEL)**.
 
-I have experience developing intelligent solutions for real-world applications in sectors such as smart cities, healthcare, telecommunications, and maritime monitoring. I also work as a freelance developer and researcher, building AI- and IoT-based projects with practical impact.
+My background combines **research, development, and applied innovation** in areas such as **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Edge Computing, IoT, and Data Science**. I work on intelligent systems designed for practical and scalable applications across sectors including **healthcare, telecommunications, smart cities, maritime surveillance, embedded AI, and industrial monitoring**.
 
-One of my main projects was developed in partnership with **ATECH (EMBRAER group)**, focused on **tracking and monitoring vessels**, which resulted in a paper presented at **IEEE LATINCOM 2024**.
-
-My academic and professional background combines research, software development, embedded AI, computer vision, and data-driven system design.
-
----
-
-## Research & Interests
-
-- Edge AI and TinyML for low-power devices  
-- Computer Vision for real-time intelligent systems  
-- Machine Learning and Deep Learning applied to healthcare, mobility, and industry  
-- IoT and embedded systems  
-- Data Science and predictive analytics  
-- Smart Cities and maritime surveillance  
-- Full stack development for AI-powered applications  
-- Cloud, DevOps, and scalable intelligent architectures  
-
----
-
-## Tech Stack
-
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### AI / Data Science / Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Development / Cloud / DevOps
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## Featured Background
-
-- MSc researcher in Telecommunications at **INATEL**  
-- Researcher in **IoT, Edge AI, Computer Vision, and Machine Learning**  
-- Experience with **medical imaging**, **embedded intelligence**, **vehicle monitoring**, **smart city systems**, and **maritime surveillance**  
-- Former academic tutor in subjects such as **Quantum Physics**, **Analog Electronics**, and **Digital Signal Processing**  
-- Author and co-author of scientific publications in conferences and journals such as **IEEE LATINCOM**, **SBrT**, and **ICICyTA**  
+I enjoy building solutions that connect **research and real-world impact**, especially when involving **edge devices, real-time inference, computer vision pipelines, and data-driven decision systems**.
 
 ---
 
 ## Current Focus
 
-🌱 I’m currently working on:
-
-- Finishing my master's dissertation  
-- Starting my PhD research  
-- Developing R&D projects in AI, Data Science, and Edge Computing  
-- Exploring scalable AI systems for embedded and real-time applications  
-
----
-
-## Publications & Research
-
-Some of my work involves:
-
-- Maritime surveillance on Raspberry Pi using Edge AI  
-- Federated Learning for pneumonia diagnosis in remote areas  
-- PCB defect detection with EdgeML and Computer Vision  
-- Real-time vehicle tracking and traffic control in smart cities  
-- Driver monitoring and multi-risk detection systems  
+- Applied AI and data-driven solutions at **Harpia**;
+- Finishing my **master’s research** at INATEL;
+- Expanding projects in **Computer Vision, Edge AI, IoT, and Data Science**;
+- Building scalable intelligent systems for real-world environments;
+- Advancing toward the next stage of my academic journey with a **PhD**;
 
 ---
 
-## Connect with Me
+## Research Interests
 
-[![Email](https://img.shields.io/badge/Email-hyago.silva%40mtel.inatel.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyago.silva@mtel.inatel.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyago%20Vieira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyagovieira/)
+- Edge AI and TinyML;
+- Computer Vision for real-time systems;
+- Machine Learning and Deep Learning;
+- Smart Cities and intelligent mobility;
+- Medical imaging and healthcare AI;
+- Embedded systems and IoT;
+- Data Science and analytics;
+- Cloud and edge deployment pipelines;
+- AI for monitoring, tracking, and decision support;
+
+---
+
+## Experience Snapshot
+
+### Harpia
+Currently contributing to projects involving intelligent systems, AI, and data-oriented solutions.
+
+### INATEL — Researcher, Developer, and MSc Student
+Working on research and development projects involving:
+- Edge AI and low-power inference optimization;
+- Smart city systems;
+- Vehicle tracking and monitoring;
+- License plate recognition;
+- Speed and distance estimation;
+- Driver monitoring and multi-risk detection;
+- Medical imaging and AI-assisted analysis;
+- Reinforcement learning and intelligent control systems;
+
+### Previous Industry Experience
+- **HapiAI** — Data Scientist focused on medical imaging and DICOM workflows;
+- **VSTelecom** — Software & IoT development with React, PHP, and Laravel;
+- **NOKIA** — Documentation management and telecom systems quality analysis;
+- **HUAWEI** — Telecom systems quality analysis for FTTH/FTTX environments;
+- **HAMC Hospital** — Technical maintenance, documentation, and process support;
+- **INATEL** — Academic Tutor in Quantum Physics, Analog Electronics, and Digital Signal Processing;
+
+---
+
+## Technical Skills
+
+### Programming Languages
+- Python;
+- C++;
+- JavaScript;
+- PHP;
+- SQL;
+
+### AI / Data Science / Computer Vision
+- Machine Learning;
+- Deep Learning;
+- Computer Vision;
+- PyTorch;
+- TensorFlow;
+- Keras;
+- Scikit-learn;
+- OpenCV;
+- Pandas;
+- Data Analysis;
+- Statistical Modeling;
+
+### Software / Development
+- ReactJS;
+- Flutter;
+- MySQL;
+- APIs and system integration;
+- Full Stack Web Development;
+- Automation and RPAs;
+- Git and GitHub;
+
+### Cloud / DevOps / Infrastructure
+- Docker;
+- AWS;
+- Google Cloud;
+- Microsoft Azure;
+- Edge Computing;
+- Cloud-based AI pipelines;
+
+### Additional Topics
+- IoT;
+- EdgeML;
+- RAG and LLM-based systems;
+- OpenAI and GenAI workflows;
+- Cybersecurity fundamentals;
+- DevOps;
+- Embedded intelligence;
+
+---
+
+## Selected Research & Publications
+
+Here are some of the topics I have worked on in my academic and applied research journey:
+
+- **Performance Evaluation of Edge Computing Object Detection Models for Maritime Surveillance on a Raspberry Pi**  
+  *IEEE LATINCOM 2024*;
+
+- **A Federated Learning-based Solution for Pneumonia Diagnosis in Remote and Low-Income Areas**  
+  *SBrT 2024*;
+
+- **Defect Detection in Printed Circuit Boards Based on EdgeML and Computer Vision**  
+  *ICICyTA 2024*;
+
+- **EdgeML-Driven Real-Time Vehicle Tracking and Traffic Control for Traffic Management in Smart Cities**  
+  *Applied Sciences (MDPI)*;
+
+- **Embedded Real-Time Multi-Risk Detection: An EdgeML-Powered System for Driver Monitoring**  
+  *IEEE Embedded Systems Letters*;
+
+---
+
+## Areas Where I Build Solutions
+
+- Smart Cities;
+- Maritime monitoring and vessel tracking;
+- Healthcare and medical imaging;
+- Driver monitoring systems;
+- Traffic monitoring and urban analytics;
+- Embedded computer vision;
+- Industrial inspection;
+- AI-assisted intelligent monitoring;
+- Data-driven dashboards and analytics systems;
+
+---
+
+## Academic Background
+
+- **MSc in Telecommunications** — INATEL;
+- **Bachelor’s Degree in Biomedical Engineering** — INATEL;
+
+---
+
+## Certifications & Complementary Training
+
+- Microsoft Certified: Azure AI Fundamentals;
+- Power BI & Data Analytics;
+- Object Detection with YOLO, Darknet, OpenCV, and Python;
+- Big Data & Analytics;
+- Artificial and Computational Intelligence;
+- Linux Fundamentals;
+- CyberOps Associate;
+- Network Security;
+- CCNA: Introduction to Networks;
+- Cybersecurity in 5G Networks;
+- 5G Core Training;
+- Lean Six Sigma Yellow Belt;
+
+---
+
+## Languages
+
+- Portuguese — Native;
+- English — Intermediate / Advanced;
+- Spanish — Intermediate;
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HyAgOsK&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyAgOsK&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Let's Connect
+
+<p>
+  <a href="mailto:hyago.silva@mtel.inatel.br">📧 Email</a><br>
+  <a href="https://www.linkedin.com/in/hyagovieira/">💼 LinkedIn</a><br>
+  <a href="https://github.com/HyAgOsK">💻 GitHub</a>
+</p>
+
+---
+
+## Final Note
+
+I am passionate about transforming research into practical solutions. My goal is to contribute to projects that combine **AI, intelligent systems, embedded computing, and real-world impact**, always seeking innovation, efficiency, and scalability.
